@@ -15,3 +15,4 @@ Stylist:	Korean music ,electronic, pop
 origins: dance, gospel ,rhythm and blues ,hip hop, jazz, folk, disco
 	Korean music ,electronic, pop ,dance, gospel ,rhythm and blues ,hip hop ,jazz ,folk ,disco ,classical ,country ,rock ,reggae ,experimental
 Cultural origins	:1940s, South Korea
+THANK YOU!!!!!!!!!!!!!!!!!!!!!!!!1
