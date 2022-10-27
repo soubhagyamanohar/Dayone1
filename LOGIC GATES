@@ -1,0 +1,108 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyNcE1ZhT3cbCJjohxWs7hWN",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/soubhagyamanohar/Dayone1/blob/main/LOGIC%20GATES\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 26,
+      "metadata": {
+        "id": "5mfaL06BvHBV"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "def AND (a,b):\n",
+        "    if a==1 and b==1:\n",
+        "       return True\n",
+        "    else:\n",
+        "        return False\n",
+        "# Deliver code\n",
+        "print(AND(1, 1))\n",
+        "print(\"+--------------------+\")\n",
+        "print(\"|AND Truth Table | Result|\")\n",
+        "print(\"A=False, B=False| A AND B=\",AND(False,False),\"|\")\n",
+        "print(\"A=False, B=True | A AND B=\",AND(False,True),\"|\")\n",
+        "print(\"A=True, B=False | A AND B=\",AND(True,False),\"|\")\n",
+        "print(\"A=True, B=True | A AND B=\",AND(True,True),\"|\")\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "cmRYWDD4vH9n",
+        "outputId": "b99c29f2-429e-41f7-d61a-73b7d8a3632b"
+      },
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "True\n",
+            "+--------------------+\n",
+            "|AND Truth Table | Result|\n",
+            "A=False, B=False| A AND B= False |\n",
+            "A=False, B=True | A AND B= False |\n",
+            "A=True, B=False | A AND B= False |\n",
+            "A=True, B=True | A AND B= True |\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "type(a)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 166
+        },
+        "id": "4dhc3GMA09RV",
+        "outputId": "11b6a66d-51b6-478c-9a36-ea13c4e8e567"
+      },
+      "execution_count": 28,
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "NameError",
+          "evalue": "ignored",
+          "traceback": [
+            "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m                                 Traceback (most recent call last)",
+            "\u001b[0;32m<ipython-input-28-b152ec05ccbc>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mtype\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0ma\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
+            "\u001b[0;31mNameError\u001b[0m: name 'a' is not defined"
+          ]
+        }
+      ]
+    }
+  ]
+}
